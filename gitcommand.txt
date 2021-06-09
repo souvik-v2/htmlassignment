@@ -3,9 +3,12 @@ Git-Basics-Getting-a-Git-Repository
 ===================================
 cd D:/Work/htmlassignment/
 git init
+git add --all
+git commit -m 'Initial commit..'
 
-
-
+SSH key localy
+==============
+$ ssh-keygen -o
 
 Create a new repository on the command line
 ============================================
